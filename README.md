@@ -10,7 +10,6 @@ Estudante de programação fullstack<br>Graduando em Sistemas da Informação<br
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RodrigoBaptistaDEV&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoBaptistaDEV&theme=blueberry&hide_border=false)<br/>
-username=RodrigoBaptistaDEV&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Inspiração
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
