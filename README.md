@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Estudante de programação fullstack<br>Graduando em Sistemas da Informação<br>Objetivo  desenvolver soluções inovadores que melhorem o modo de pensar e agir das pessoas em diversas áreas
+Desenvolvedor Java FullStack <br>Graduando em Sistemas da Informação<br>Objetivo  desenvolver soluções inovadores que melhorem o modo de pensar e agir das pessoas em diversas áreas
 
 
 ## 🌐 Entre em contato:
